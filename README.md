@@ -10,8 +10,8 @@ This is a NodeJS project for building REST APIs with ES6 and NHTSA API.
 
 ```sh
 # clone it
-git clone git@github.com:limhowe/nhtsa-api.git
-cd nhtsa-api
+git clone git@github.com:cowboydev63/nhtsa-api-express.git
+cd nhtsa-api-express
 
 # Install dependencies & Start production server
 npm install && npm start
